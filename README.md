@@ -1,4 +1,4 @@
 Resume
 ======
 
-A copy of my resume.
+A public version of my resume, hopefully made with LaTeX.
